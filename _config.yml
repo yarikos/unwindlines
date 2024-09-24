@@ -1,15 +1,15 @@
-title: "Віршики"
-markdown: kramdown
+#title: "Віршики"
+#markdown: kramdown
 #theme: minima
 
-
-sass:
-  style: compressed
-  load_paths:
-    - _assets/css
-
-
-custom_css: _assets/css/style.css
+#
+#sass:
+#  style: compressed
+#  load_paths:
+#    - _assets/css
+#
+#
+#custom_css: _assets/css/style.css
 
 
 google_site_verification: kpo7UwrMOUwqQIISvzskB9ATFV_3zNiBDqx-DsZ13ic
