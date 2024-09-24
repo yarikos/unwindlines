@@ -1,7 +1,9 @@
 title: Віршики
-author:
-  name: yarikos
-#theme: minima
+markdown: kramdown
+#
+#author:
+#  name: yarikos
+##theme: minima
 
 #minima:
 #  # Minima skin selection.
