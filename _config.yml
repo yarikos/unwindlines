@@ -3,15 +3,16 @@ author:
   name: yarikos
 theme: minima
 
-minima:
-  # Minima skin selection.
-  # Available skins are:
-  # classic	           Default, light color scheme.
-#  skin: dark	#             Dark variant of the classic skin.
-  # auto	             Adaptive skin based on the default classic and dark skins.
-  # solarized-light	   Light variant of solarized color scheme.
-  # solarized-dark	   Dark variant of solarized color scheme.
-  # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: dark
+site:
+  minima:
+    # Minima skin selection.
+    # Available skins are:
+    # classic	           Default, light color scheme.
+  #  skin: dark	#             Dark variant of the classic skin.
+    # auto	             Adaptive skin based on the default classic and dark skins.
+    # solarized-light	   Light variant of solarized color scheme.
+    # solarized-dark	   Dark variant of solarized color scheme.
+    # solarized	         Adaptive skin for solarized color scheme skins.
+    skin: dark
 
 google_site_verification: kpo7UwrMOUwqQIISvzskB9ATFV_3zNiBDqx-DsZ13ic
